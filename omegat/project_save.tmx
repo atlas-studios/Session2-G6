@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1540,6 +1540,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180808T205240Z" creationid="Joey" creationdate="20180808T205220Z">
         <seg>"Hiss..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“嘿嘿！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T062439Z" creationid="emilywu" creationdate="20181210T062439Z">
+        <seg>"Heh heh!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,6 +9845,15 @@ He must have wanted to beat me unconscious. Perhaps… he even meant to kill me!
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸一巴掌扫过去，把小胖子打得在原地转了一个圈，他正色说道：“钱万贯，要想和我江逸做朋友，你就收起这点小聪明，我最讨厌虚伪的人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T064443Z" creationid="emilywu" creationdate="20181210T064443Z">
+        <seg>Jiang Yi slapped him in the face. The slap was so hard that Fatty made a turn on the spot.
+"Qian Wanguan, stop playing petty tricks if you want to be my friend, you know I hate hypocrites."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸一张脸变成了苦瓜，转念一想，这柳长老既然在后面看着，想然自己取的药材是没错了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063159Z" creationid="USER" creationdate="20180810T061954Z">
@@ -11501,8 +11518,8 @@ It was unbelievable that the adage "beggars cannot be choosers" could apply to t
       <tuv lang="ZH-CN">
         <seg>江逸毫不客气的坐在小胖子的床上，目光灼灼的盯着他，开口道：“钱万贯，你能帮我做件事不？这事要是做成了，我江逸欠你一个人情！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T061816Z" creationid="emilywu" creationdate="20181210T061816Z">
-        <seg>Jiang Yi sat on Fatty's bed and stared at Qian,"Can you do something for me? I own you a favor if it is done."</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T062405Z" creationid="emilywu" creationdate="20181210T061816Z">
+        <seg>Jiang Yi sat on Fatty's bed and stared at him,"Can you do something for me, Qian Wanguan? I own you a favor if it is done."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,6 +12366,14 @@ As such, the relationship between the two boys could be considered to be pretty 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T062224Z" creationid="Joey" creationdate="20180926T055223Z">
         <seg>Jiang Yi smiled with some bitter agony. That day, he had used that pseudonym "Yi Jian" at the Pearl Gathering Pavilion. However, after being so easily and quickly recognised, his heart did not feel so wrung and pained as before. Instead, he looked at Ji Tingyu with a tranquil gaze and asked, "Young Mistress Ji, how did you recognise me? You did not see my eyes that day, did you?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸苦笑起来：“你也不怕亏了？我的人情万一不值钱呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T064840Z" creationid="emilywu" creationdate="20181210T064840Z">
+        <seg>"You are not scared of losing out? What it my favor does not worth much?" said Jiang with a wry smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15503,6 +15528,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="yyc" changedate="20181210T055610Z" creationid="yyc" creationdate="20181210T055610Z">
         <seg>Qian Wanguan stood up and rubbed his chest area. He was not angry but instead, stared at Jiang Yi with confusion. Jiang Yi did not seem like to be lying, Qian Wanguan then asked," Jiang Yi, did Jiang Yunhai not tell you about your background? Based on our Qian's deduction, you are definitely the son of the Western Garrison Liege Lord - half-blooded brother of Jiang Ni!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯的小眼睛内光芒一亮，很快笑眯眯的说道：“大哥，见外了吧？我既然认你做大哥，你的事就是我的事，别说人情不人情的，你说吧，我全力去做就是了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T062943Z" creationid="emilywu" creationdate="20181210T062943Z">
+        <seg>Qian's eyes brightened, he smiled and said," Brother, you are being a stranger! As I call you my brother, your business is my business. Let's not talk about owning favors. Just say it, I'll try my best to help."</seg>
       </tuv>
     </tu>
     <tu>
