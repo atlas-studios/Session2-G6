@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3472,6 +3472,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T174511Z" creationid="tianqi" creationdate="20181024T174511Z">
         <seg>"Could such a bizarre thing really happen? Is it due to the black essence force?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这个女子的来历无人知晓，她被江别离带进王府住了两年，王府却没有给她任何名分，在江别离登上镇西王之位后还突然离开了。而在她离开后，江云海也告病回到了老家天羽城，据我们安排在镇西王府的内线传回的消息，那女子离开时肚子里已经有些孩子！江云海回到天羽城后一直呆在江家，三年后才突然离去抱回来两个婴儿，那就是你和你的侍女！既然江云海认你为少主，那么你的身份就再明显不过了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T062328Z" creationid="yyc" creationdate="20181210T062223Z">
+        <seg>"No one knew where this woman came from. She was brought to the household two years ago by Jiang Bieli. She was not given any titulus and left after Jiang Bieli became the Western Garrison Liege Lord. Jiang Yunhai claimed to be sick and returned to his home Skyplume City after the woman left the household. Based on the agent we planted in the household of Western Garrison Liege Lord, the woman was pregnant when she left! Jiang Yunhai remained in Jiang Clan when he returned to Skyplume City. He left Skyplume City after three years and was back with two babies in his hand. The two babies are you and your maidservant! Since Jiang Yunhai recognized you as the young master, is your background obvious enough?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7430,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子哑然失笑，摇头道：“江逸，其实你应该猜到了一些吧？否则你不会如此暴怒！江云海曾经是王府的内院总管，有一次他因为做错了事情差点被杀了，是一位住在王府女子出言求情这才被免一死，不过最后还是被打瘸了腿，此事在镇西王府闹的很大，很多人都知道，他认这位女子为主也是情理之中的事情。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T061130Z" creationid="yyc" creationdate="20181210T061130Z">
+        <seg>Fatty broke into laughter. He shaked his head and said," Jiang Yi, i think you should be able to guess part of your background right? If not you wouldn't be this furious. Jiang Yunhai was the Chief Supervisor of the Inner Court in the household. Once he was nearly killed due to his mistake. It was a woman who stayed in the household pleaded for him and thus he escaped from death. But eventually he was punished heavily and became a lame person. The incidence had wide influence and it was normal that he treated the woman as his master."  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女目光在江逸等人身上扫过，有些不满的说道：“杨管事，怎么没有银牌陪练？全都是铜牌的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152717Z" creationid="Joey" creationdate="20180911T211203Z">
@@ -10369,6 +10385,14 @@ He hoped to continue working long-term at the Alchemy Lab—which meant he did n
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸听着钱万贯的话，一句话没说但脸色阴沉的可怕，眸子内光芒闪烁，也不知道他在想些什么。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T062543Z" creationid="yyc" creationdate="20181210T062543Z">
+        <seg>Jiang Yi did not respond to what Qian Wanguan had said, but his showed a intimidating black face. His eyes seemed to be sparkling. No one knew what he was thinking about. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸听闻背后的风声猛然回头一望，顿时大怒。当年他悟性惊人，在江家地位尊荣，所以看过很多江家武技，江松此刻使出来的武技他一眼就能认出。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="Joey" creationdate="20180814T185456Z">
@@ -12467,6 +12491,14 @@ Sighing deeply, he gritted his teeth and walked in the direction of the side doo
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055413Z" creationid="Joey" creationdate="20180811T030823Z">
         <seg>Jiang Yi felt his body tremble and he shuddered. Evidently, his healing speed had accelerated, to the point that the healing speed reached approximately five or six times the original speed. The effects were now on par with Man-tier superior-grade healing elixirs. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸身子一颤，但还是很不相信，冷笑道：“证据呢？你凭什么说我是镇西王的儿子？我还说你是我的儿子呢！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T055759Z" creationid="yyc" creationdate="20181210T055759Z">
+        <seg>Jiang Yi trembled but still did not believe Qian's words. He sneered," Where is the proof? How can you tell that i'm the son of the Western Garrison Liege Lord? I say you are my son, do you believe me?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15479,6 +15511,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="emilywu" changedate="20181210T061015Z" creationid="emilywu" creationdate="20181210T061015Z">
         <seg>"That's easy, when do you want to meet him?" Qian nodded and said with a frown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯站了起来，沉默一阵，感慨道：“说起来那个女子也是奇人，没有人知道她叫什么，来自什么家族，只是知道她姓衣，此人不仅貌似天仙还实力奇高，甚至一开始都比江别离强很多！江别离据说非常爱这位女子，只是不知为何后来没有娶她？反而娶了长孙家的一位小姐，这女子也莫名其妙离开了王府……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T062915Z" creationid="yyc" creationdate="20181210T062915Z">
+        <seg>Qian Wanguan stood up and remained silent for a little while. He sighed with deep feelings," </seg>
       </tuv>
     </tu>
     <tu>
