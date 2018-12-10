@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -496,6 +496,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T164833Z" creationid="Joey" creationdate="20180916T164833Z">
         <seg>"Let me try this again!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“出去！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074753Z" creationid="yyc" creationdate="20181210T074753Z">
+        <seg>"Get out!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,6 +3032,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T055228Z" creationid="Joey" creationdate="20180926T055228Z">
         <seg>"I simply guessed!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“疯了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074323Z" creationid="yyc" creationdate="20181210T074323Z">
+        <seg>"You are mad..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9352,6 +9368,14 @@ If one wished to enter the Martial Arts Hall without a level of power in the Pur
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013038Z" creationid="USER" creationdate="20180805T125754Z">
         <seg>An average person at the first stage of the Cast Tripod Realm usually had the power of a horse. They could break a rock with a single blow and could lift 72 kilograms. Jiang Bao, a second-stage Cast Tripod Realm martial artist, had the power of two horses and could lift 144 kilograms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江云海曾经说过，他可以去找他父亲相认，不过以后就两人将不再见面。对于他来说江云海比那个所谓的父亲重要多了，而且他父亲当年还抛弃了他母亲，这才导致他母亲含恨死去，所以对于这个父亲，他没有半点好感，反而都是恨意，刻骨铭心的恨！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074314Z" creationid="yyc" creationdate="20181210T074314Z">
+        <seg>Jiang Yunhai said before that he could go to his father but Jiang Yunhai would not meet him again. To Jiang Yi, Jiang Yunhai is much more important than the so called "father". Furthermore, his father abandoned his mother that time which caused his mother to pass away in resentment. He did not have any good impression towards this "father" but instead, he hated him. The kind of hatred that was engraved on the bones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,6 +15792,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="yyc" changedate="20181210T072137Z" creationid="yyc" creationdate="20181210T072137Z">
         <seg>Qian Wanguan was puzzled. He asked people to investigate Jiang Yi and deduced his background. He even arranged to be in the same room as him to establish good relationship with him. If Jiang Yi inherited the position as the Western Garrison Liege Lord in future, it would be a great news to Qian Clan. But he did not expect that Jiang Yi conflicted strongly towards Jiang Clan. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯满脸肥嘟嘟的肉一抖，杀江别离？怕是江逸才有这个勇气说吧？那可是大陆最顶级的强者之一，神武国的至尊强者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074656Z" creationid="yyc" creationdate="20181210T074656Z">
+        <seg>The fats on Qian Wanguan's cheek jerked. He wanted to kill Jiang Bieli? Only Jiang Yi could have the nerve to say these words. Who is Jiang Bieli? He is one of the strongest person on the continent, the Supreme Paragon of the Divine Martial Kingdom. </seg>
       </tuv>
     </tu>
     <tu>
