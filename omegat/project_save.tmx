@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1656,6 +1656,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“大哥，你没睡醒吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T072634Z" creationid="emilywu" creationdate="20181210T072634Z">
+        <seg>"Brother, you are not awake yet?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“大爷爷，你没事真的太好了……”睡梦中的江逸满脸泪痕地唤了一声。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010756Z" creationid="Joey" creationdate="20180803T102204Z">
@@ -3184,6 +3192,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T141514Z" creationid="tianqi" creationdate="20181028T141514Z">
         <seg>"Whatever, I'll cross that bridge when I come to it. First, I have to make a breakthrough to the fourth stage of the Cast Tripod Realm."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“精英学员！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T071546Z" creationid="emilywu" creationdate="20181210T071546Z">
+        <seg>"Elite student!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12500,8 +12516,8 @@ As such, the relationship between the two boys could be considered to be pretty 
       <tuv lang="ZH-CN">
         <seg>江逸苦笑起来：“你也不怕亏了？我的人情万一不值钱呢？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T064840Z" creationid="emilywu" creationdate="20181210T064840Z">
-        <seg>"You are not scared of losing out? What it my favor does not worth much?" said Jiang with a wry smile.</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T071036Z" creationid="emilywu" creationdate="20181210T064840Z">
+        <seg>"You are not scared of losing out? What it my favor does not worth much?" said Jiang Yi with a wry smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14900,6 +14916,14 @@ If he was paired up with Jiang Henshui, wouldn't his identity immediately be rev
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>说着钱万贯的眉头蹙了起来，沉默了很久，才苦笑说道：“大哥，这事我可以帮你，短期内我能利用家族的人帮你掩护一下，但这事瞒不了多久。除非你在学院内不冒头，一旦你成为精英学员，各家族都会调查你的资料，到时候绝对有人会查出一丝蛛丝马迹的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T072422Z" creationid="emilywu" creationdate="20181210T072422Z">
+        <seg>Qian Wanguan frowned as he said, "Brother, I can help you with that. I can cover you using people in my family in the short-run. But this won't last long. Once you become an elite student, every family would start researching you. Someone's gonna find something."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>说着，柳长老就大步朝旁边的一个偏厅内走去。江逸踌躇一阵只能咬牙上了，运转蓝色元力双手贴在丹炉侧壁上。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180811T202025Z" creationid="Joey" creationdate="20180811T202025Z">
@@ -15686,8 +15710,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯点了点头：“以江逆流的心机，他要是知道了你的身份，一定会让人出手。除非你将你的身份公布天下，让镇西王也知道，否则你必死无疑，你不可能一辈子躲在学院内的……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T071015Z" creationid="emilywu" creationdate="20181210T071015Z">
-        <seg>YiQian nodded and said,"If Jiang Niliu "</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T071458Z" creationid="emilywu" creationdate="20181210T071015Z">
+        <seg>Qian Wanguan nodded and said,"If Jiang Niliu discovered your identity, he will send someone to kill you. Unless you disclose your identity to all, including King Zhen Xi, you are dead for sure. You cannot hide in college forever..."</seg>
       </tuv>
     </tu>
     <tu>
