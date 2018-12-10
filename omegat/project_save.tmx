@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1242,8 +1242,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“唔……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055717Z" creationid="USER" creationdate="20180806T111209Z">
-        <seg>"Huh...."</seg>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T073713Z" creationid="USER" creationdate="20180806T111209Z">
+        <seg>"Oh...."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,6 +7986,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>很多知道钱万贯身份的人却是内心一震，纷纷猜测江逸的身份起来，敢拍这个小胖子脑袋的人那可都是猛人啊，这个小胖子表面看起来人蓄无害，很多人被他怎么阴死的不知道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T074906Z" creationid="teotianci" creationdate="20181210T074906Z">
+        <seg>Those who knew Qian Wanguan's identity started to cast their doubts and began guessing Jiang Yi's identity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>很快一道消息传遍了整个江家大院，家族十大长老之一，江家唯一的炼丹师柳长老，就在刚才不知什么原因突然猝死在自家院子内。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="Joey" creationdate="20180818T094119Z">
@@ -13070,8 +13078,8 @@ Hesitating briefly, he asked, "Can I leave at any time I want?"</seg>
       <tuv lang="ZH-CN">
         <seg>江逸飞了一个白眼，这小胖子很是欠揍，但又不让人讨厌。不知为何他对于这个神武国第四家族的公子他半点没有畏惧，反而倍感亲切，就像自己的小弟般。或许这也正是小胖子的个人魅力，天生的能力，能让人消除戒心和他交好。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T071404Z" creationid="teotianci" creationdate="20181210T071404Z">
-        <seg>Jiang Yi </seg>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T072323Z" creationid="teotianci" creationdate="20181210T071404Z">
+        <seg>Jiang Yi rolled his eyes. This Fatty really deserves a beating, yet he is not annoying. It is not known why he is not fearful of the Fourth Young Master of the Divine Martial Kingdom Family Clan. Instead, he was very friendly, acting as if it was his own men. Perhaps this was the Fatty's charm — his natural ability to eradicate enmity and for others to interact with him in a affable manner</seg>
       </tuv>
     </tu>
     <tu>
