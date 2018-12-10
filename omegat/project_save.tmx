@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12412,6 +12412,14 @@ Without any black essence force, he had no other result beyond ending up in a co
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸突然指着门外对着钱万贯吼了起来，小胖子抖了抖鼻子讪讪的走出去了。江逸直接扑到在床上，痛苦的闭上眼睛，脑海内如浆糊般一团糟。他胡思乱想了一阵，很快坐了起来揉了揉脸，强迫自己冷静下来，分析情况。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074854Z" creationid="yyc" creationdate="20181210T074854Z">
+        <seg>Jiang Yi suddenly shouted towards Qian Wanguan and pointed towards the door. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸立即调集一丝黑色元力，再次运转到伤口附近和药力融合起来，快速治疗伤势。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180811T143839Z" creationid="Joey" creationdate="20180811T143839Z">
@@ -15838,8 +15846,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯爬了起来，揉了揉胸口依旧没有生气，反而疑惑的望着江逸，看他不似作伪，这才问道：“江逸，江云海没有告诉你的身世？按我们钱家的情报推算，你绝对是镇西王的儿子，江逆流同父异母的弟弟！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T055610Z" creationid="yyc" creationdate="20181210T055610Z">
-        <seg>Qian Wanguan stood up and rubbed his chest area. He was not angry but instead, stared at Jiang Yi with confusion. Jiang Yi did not seem like to be lying, Qian Wanguan then asked," Jiang Yi, did Jiang Yunhai not tell you about your background? Based on our Qian's deduction, you are definitely the son of the Western Garrison Liege Lord - half-blooded brother of Jiang Ni!" </seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T075020Z" creationid="yyc" creationdate="20181210T055610Z">
+        <seg>Qian Wanguan stood up and rubbed his chest area. He was not angry but instead, stared at Jiang Yi with confusion. Jiang Yi did not seem to be lying, Qian Wanguan then asked," Jiang Yi, did Jiang Yunhai not tell you about your background? Based on our Qian's deduction, you are definitely the son of the Western Garrison Liege Lord - half-blooded brother of Jiang Ni!" </seg>
       </tuv>
     </tu>
     <tu>
