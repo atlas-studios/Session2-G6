@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3856,6 +3856,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“马勒戈壁！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T065352Z" creationid="teotianci" creationdate="20181210T065352Z">
+        <seg>"You bastard!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“马勒戈壁，怎么弄？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065917Z" creationid="USER" creationdate="20180811T072148Z">
@@ -7510,6 +7518,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子被打了一下，没有半点生气，反而谄媚笑道：“嘿嘿，大哥别用担心那么多，我保证江麒麟不敢惹你，就算他敢惹你我绝对叫人帮你揍他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T071151Z" creationid="teotianci" creationdate="20181210T071151Z">
+        <seg>Despite the fact that Fatty got slapped, he was however, not angry. Instead, he smiled and said "Hehe, you need not worry too much. I can verify that Jiang Qilin would not dare to trigger you. Even if he eventually provokes you, I will definitely call my men to help you beat him up."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女目光在江逸等人身上扫过，有些不满的说道：“杨管事，怎么没有银牌陪练？全都是铜牌的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152717Z" creationid="Joey" creationdate="20180911T211203Z">
@@ -10838,6 +10854,14 @@ However, for someone like him who faced difficulty in even getting food to eat, 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸微微一叹身子隐入人群中，不想让江麒麟等人看到。谁料那个小胖子钱万贯目光一扫，突然满脸笑容的朝江逸靠了过来，老远就叫道：“大哥，你在这啊，害我一顿好找。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T065333Z" creationid="teotianci" creationdate="20181210T065333Z">
+        <seg>Jiang Yi sighed slightly, slowly distancing himself into the crowd to prevent Jiang Qilin from noticing him.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸微微宽心，江家很重规矩，祸不及家人这一条尤为重要，江如虎就算要找他麻烦也不会为难江小奴的，否则被家族知道，那事情就严重了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="tianqi" creationdate="20181023T143950Z">
@@ -12050,6 +12074,14 @@ As he had already predicted the incoming attacks in advance, he had already take
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸眸子一冷，下意识的朝江麒麟望去，果然看到他正注视着自己，眸子内都是杀意。看到小胖子亲热的走过来，江逸顿时气不打一处来，抬手对着他的后脑勺就是一下，低骂道：“钱万贯，你故意的是不是？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T070424Z" creationid="teotianci" creationdate="20181210T070424Z">
+        <seg>Jiang Yi momentarily shooked and subconciously gazed with bloodshot eyes in Jiang Qilin's direction. Seeing Fatty eagerly walking over, Jiang Yi lifted his hand to the back of his head, subtly scolding "Qian Wanguan, you did it on purpose, didn't you?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸眸子内冷意一闪，不过他却没有像昨日那般冒然过去查看，不想再惹事端的话，只能佯装没看到，继续清点草参。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011957Z" creationid="Joey" creationdate="20180807T152958Z">
@@ -12904,6 +12936,14 @@ Hesitating briefly, he asked, "Can I leave at any time I want?"</seg>
       </tuv>
       <tuv lang="EN-US" changeid="emilywu" changedate="20181210T070856Z" creationid="emilywu" creationdate="20181210T070856Z">
         <seg>"I need you to cover my identity at all cost, whether I am that man's son or not. If Jiang Niliu hears about this, he would do anything just to kill me." said Jiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸飞了一个白眼，这小胖子很是欠揍，但又不让人讨厌。不知为何他对于这个神武国第四家族的公子他半点没有畏惧，反而倍感亲切，就像自己的小弟般。或许这也正是小胖子的个人魅力，天生的能力，能让人消除戒心和他交好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T071404Z" creationid="teotianci" creationdate="20181210T071404Z">
+        <seg>Jiang Yi </seg>
       </tuv>
     </tu>
     <tu>
