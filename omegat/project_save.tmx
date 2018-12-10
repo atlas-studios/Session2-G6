@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15525,8 +15525,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯站了起来，沉默一阵，感慨道：“说起来那个女子也是奇人，没有人知道她叫什么，来自什么家族，只是知道她姓衣，此人不仅貌似天仙还实力奇高，甚至一开始都比江别离强很多！江别离据说非常爱这位女子，只是不知为何后来没有娶她？反而娶了长孙家的一位小姐，这女子也莫名其妙离开了王府……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T062915Z" creationid="yyc" creationdate="20181210T062915Z">
-        <seg>Qian Wanguan stood up and remained silent for a little while. He sighed with deep feelings," </seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T063930Z" creationid="yyc" creationdate="20181210T062915Z">
+        <seg>Qian Wanguan stood up and remained silent for a little while. He sighed with deep feelings,"Thinking about the woman, she was a legend. No one knew what was her name or which family she was from besides her surname was Yi. She had the goddess appearance and immense strength, even more powerful than Jiang Bieli when they first met. It was also said that Jiang Bieli loved this woman but did not know to what reason that he did not marry her. He married a young mistress from Zhangsun Clan. It was baffling that the woman also left the household."  </seg>
       </tuv>
     </tu>
     <tu>
