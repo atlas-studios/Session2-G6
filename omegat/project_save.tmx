@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1204,6 +1204,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152833Z" creationid="Joey" creationdate="20180912T065522Z">
         <seg>Sigh... this sparring partnership job is definitely not a task that humans should do. No wonder why there is still a shortage of personnel even with an offer of high pay: these young masters and mistresses don't even treat their sparring partners as fellow human beings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“唉！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T072211Z" creationid="yyc" creationdate="20181210T072211Z">
+        <seg>"Sigh"...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,6 +3824,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“闭嘴！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T072203Z" creationid="yyc" creationdate="20181210T072203Z">
+        <seg>"Shut up!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“问题出在……我这黑色元力身上！哼哼，我回炉的时候不注入黑色元力，你一辈子都别想炼出地阶丹药！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063318Z" creationid="USER" creationdate="20180810T073242Z">
@@ -5368,6 +5384,14 @@ The threads of friendship he had formed with Jiang Henshui when they were childr
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T140417Z" creationid="Ho Jin Liang" creationdate="20181203T140353Z">
         <seg>Witnessing Jiang Yi breaking Jiang Ruhu's leg, his eyes instantly broke wide opened as a killing aura cloaked his body. With a burst of his leg muscle, his entire body rushed towards Jiang Yi like a frenzied bull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他看江逸这样子，也不敢过于劝说，点了点头道：“行，这事我保证不外传，不过你的情报太明显了，随便一个人去天羽城查查就能知道，你想隐瞒身份除非把天羽城的人全杀了，要是江麒麟去查了你的资料，再上报给镇西王……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T072643Z" creationid="yyc" creationdate="20181210T072216Z">
+        <seg>Qian Wanguan did not try to overly-convince Jiang Yi based on his reaction. He nodded and said," Ok! I promise you that i won't share the information. But your background is too obvious. Anyone can investigate around Skyplume City and get to know about that. If you want to hide your identity, you have to kill everyone in Skyplume City. If Jiang Qilin decide to check your background and report to Western Garrison Liege Lord..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -12070,6 +12094,14 @@ As he had already predicted the incoming attacks in advance, he had already take
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063741Z" creationid="USER" creationdate="20180811T083140Z">
         <seg>Jiang Yi cut her off immediately and warned her, "Xiaonu, you must remember, from today onwards you will never be allowed to leave the Jiang Residence Central Courtyard. Otherwise, you can forget about ever recognizing me as your Young Master anymore."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸眉头一皱，有些慌乱起来，江云海的曾经在王府内做过事，还当众说江逸是他的少主，如果了解内情的人一猜就能明白。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T072913Z" creationid="yyc" creationdate="20181210T072913Z">
+        <seg>Jiang Yi frowned and panicked. Jiang Yunhai worked in the household and claimed him as the young master in front of everyone. Anyone who knew the hidden information would be able to understand. </seg>
       </tuv>
     </tu>
     <tu>
