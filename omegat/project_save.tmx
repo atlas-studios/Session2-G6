@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7600,8 +7600,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>小胖子哑然失笑，摇头道：“江逸，其实你应该猜到了一些吧？否则你不会如此暴怒！江云海曾经是王府的内院总管，有一次他因为做错了事情差点被杀了，是一位住在王府女子出言求情这才被免一死，不过最后还是被打瘸了腿，此事在镇西王府闹的很大，很多人都知道，他认这位女子为主也是情理之中的事情。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T061130Z" creationid="yyc" creationdate="20181210T061130Z">
-        <seg>Fatty broke into laughter. He shaked his head and said," Jiang Yi, i think you should be able to guess part of your background right? If not you wouldn't be this furious. Jiang Yunhai was the Chief Supervisor of the Inner Court in the household. Once he was nearly killed due to his mistake. It was a woman who stayed in the household pleaded for him and thus he escaped from death. But eventually he was punished heavily and became a lame person. The incidence had wide influence and it was normal that he treated the woman as his master."  </seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T075700Z" creationid="yyc" creationdate="20181210T061130Z">
+        <seg>Fatty broke into laughter. He shook his head and said," Jiang Yi, I think you should be able to guess part of your background right? If not you wouldn't be this furious. Jiang Yunhai was the Chief Supervisor of the Inner Court in the household. Once he was nearly killed due to his mistake. It was a woman who stayed in the household pleaded for him and thus he escaped from death. But eventually he was punished heavily and became a lame person. The incidence had wide influence and it was normal that he treated the woman as his master."  </seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,8 +12786,8 @@ Sighing deeply, he gritted his teeth and walked in the direction of the side doo
       <tuv lang="ZH-CN">
         <seg>江逸身子一颤，但还是很不相信，冷笑道：“证据呢？你凭什么说我是镇西王的儿子？我还说你是我的儿子呢！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T055759Z" creationid="yyc" creationdate="20181210T055759Z">
-        <seg>Jiang Yi trembled but still did not believe Qian's words. He sneered," Where is the proof? How can you tell that i'm the son of the Western Garrison Liege Lord? I say you are my son, do you believe me?"</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T075344Z" creationid="yyc" creationdate="20181210T055759Z">
+        <seg>Jiang Yi trembled but still did not believe Qian's words. He sneered," Where is the proof? How can you tell that I'm the son of the Western Garrison Liege Lord? I say you are my son, do you believe me?"</seg>
       </tuv>
     </tu>
     <tu>
