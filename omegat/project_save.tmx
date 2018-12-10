@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7630,6 +7630,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子翻了一个白眼道：“我们是什么？记名学员！学院内最低级的学员，就算有仪式也不是欢迎我们的！走吧，做事去了！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T082116Z" creationid="emilywu" creationdate="20181210T082116Z">
+        <seg>Fatty rolled his eyes, "What are we? Nominal students! The lowest-ranked students in the college. Even if there is a ceremony, it is not for us. Let's go and do some chores!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子脸上的笑容凝固，面色认真起来，点头道：“行，大哥你说吧，你这人情我要定了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="emilywu" changedate="20181210T065316Z" creationid="emilywu" creationdate="20181210T065316Z">
@@ -8030,6 +8038,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       </tuv>
       <tuv lang="EN-US" changeid="teotianci" changedate="20181210T074906Z" creationid="teotianci" creationdate="20181210T074906Z">
         <seg>Those who knew Qian Wanguan's identity started to cast their doubts and began guessing Jiang Yi's identity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>很多院子内此刻都有学员走出，不过这附近住的人估计都是记名学员，实力都不高，很少看到紫府境的武者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T082542Z" creationid="emilywu" creationdate="20181210T082542Z">
+        <seg>Many students were walking out of the courtyards. But perhaps,  </seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,6 +14026,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T083251Z" creationid="USER" creationdate="20180811T124154Z">
         <seg>Chapter 11: Ji Tingyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十七章 有我在没人敢动你</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T082657Z" creationid="emilywu" creationdate="20181210T082657Z">
+        <seg>Chapter 17: I am here</seg>
       </tuv>
     </tu>
     <tu>
