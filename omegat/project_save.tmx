@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15838,8 +15838,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯点了点头：“以江逆流的心机，他要是知道了你的身份，一定会让人出手。除非你将你的身份公布天下，让镇西王也知道，否则你必死无疑，你不可能一辈子躲在学院内的……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T071458Z" creationid="emilywu" creationdate="20181210T071015Z">
-        <seg>Qian Wanguan nodded and said,"If Jiang Niliu discovered your identity, he will send someone to kill you. Unless you disclose your identity to all, including King Zhen Xi, you are dead for sure. You cannot hide in college forever..."</seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T075429Z" creationid="emilywu" creationdate="20181210T071015Z">
+        <seg>Qian Wanguan nodded and said,"If Jiang Niliu discovered your identity, he will send someone to kill you. Unless you disclose your identity to all, including Western Garrison Liege Lord, you are dead for sure. You cannot hide in college forever..."</seg>
       </tuv>
     </tu>
     <tu>
