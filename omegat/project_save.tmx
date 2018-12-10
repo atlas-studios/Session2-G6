@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -654,8 +654,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“呃……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152755Z" creationid="USER" creationdate="20180812T100510Z">
-        <seg>“呃……”</seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T071303Z" creationid="USER" creationdate="20180812T100510Z">
+        <seg>“Errrr……”</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +752,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T145010Z" creationid="Joey" creationdate="20180922T145010Z">
         <seg>"Huh, huh, I'm not fighting any longer, you're too obscenely power..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呼！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T071114Z" creationid="yyc" creationdate="20181210T071114Z">
+        <seg>"Huh...."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5298,14 @@ To say nothing of being faster than Jiang Henshui, even if he were slower than J
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他的眼眸突然泛红起来，盯着钱万贯恶狠狠的说道：“小胖子，你给我听着，我江逸是孤儿，我没有父母，这件事情你要是敢外传，我就算拼了命也会诛杀你的！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T071720Z" creationid="yyc" creationdate="20181210T071720Z">
+        <seg>His eyes suddenly turned red and stared fiercely at Qian Wanguan," Fatty, you listen up! I, Jiang Yi, is an orphan. I do not have parents. If you dare to spread the information, i will kill you even it sacrifices my life!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他目光一冷，朝左边的小树林内扫去，暗道难道是江如虎等人来堵他了？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T172336Z" creationid="Joey" creationdate="20180916T172336Z">
@@ -8348,6 +8364,14 @@ After instructing his maidservant to serve some aromatic tea, he gave a small sm
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180808T194639Z" creationid="Joey" creationdate="20180808T194639Z">
         <seg>Following that, that housekeeper appeared and viciously gave Jiang Xiaonu a slap and allowed the guard to bring Xiaonu to the backyard, demanding that she pay up for the damages or otherwise sign a contract and sell herself to the household... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>推断出自己的身世，江逸不仅没有半点喜悦，反而脑中都是愤慨之气。对于这个突然冒出来的父亲，他没有半点认同感，亦如他娘亲说的，他没有父亲！以前没有，现在没有，以后也没有……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T071453Z" creationid="yyc" creationdate="20181210T071250Z">
+        <seg>Jiang Yi did not show any sense of joy after deducing his background. Instead, his brain was full of indignation. He did not show any sense of recognition towards the "father" whom appeared suddenly. Just like what his mother said, he did not have a father! Not in the past, not now and definitely not in the future...</seg>
       </tuv>
     </tu>
     <tu>
