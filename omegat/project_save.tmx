@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10779,8 +10779,8 @@ It looks like this fight will only worsen them…</seg>
       <tuv lang="ZH-CN">
         <seg>江逸想清楚了事情，走出房间一脚把小胖子的房门踹开了，把正在看一份资料的小胖子吓了一跳。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T053348Z" creationid="emilywu" creationdate="20181210T053209Z">
-        <seg>Jiang Yi figured it out. He kicked open </seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T054909Z" creationid="emilywu" creationdate="20181210T053209Z">
+        <seg>Jiang Yi figured it out. Fatty was reading when Jiang Yi kicked his door open, that loud sound startled him.</seg>
       </tuv>
     </tu>
     <tu>
