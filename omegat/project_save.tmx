@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -212,6 +212,14 @@
         <seg>"I'm not waiting any longer. I'll just fight a few casual rounds with them. I need a tael of purple gold just to stay for a single day at your Martial Arts Hall. I did not come here for fun." The youth coldly snorted twice, before turning and walking into one of the technique-practicing rooms. 
 
 Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner of the room. "Wild Boar! It's time to do battle, so get in the sparring room!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不管了，你先尽量隐瞒吧！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T074203Z" creationid="emilywu" creationdate="20181210T074203Z">
+        <seg>"Anyway, just hide it to the best you can."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13002,6 +13010,14 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸面色沉了下来，要想得到学院的重视，那必须成为精英学员，这样才能有机会认识那位天阶的治疗师，从而求他治疗江小奴。也只有成为精英学员才能得到驯化灵兽的秘术，而一旦成为精英学员，将会引起各大家族的注意和招揽，资料也会无可避免的被调查……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T073946Z" creationid="emilywu" creationdate="20181210T073631Z">
+        <seg>Jiang Yi looked serious. One has to become an elite student if he wants to receive attention in college. This is the only way to meet the healer in Heaven-tier and asked him to treat Jiang Xiaonu. Moreover, only elite students possess the secret skills of domesticating Spirit Beast. And once you become an elite student, you will be the center of attention, every family would want to recruit you and your background would be investigated..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸顿了一下，迟疑问道：“我能随时离开吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T144147Z" creationid="Joey" creationdate="20180911T190011Z">
@@ -14958,8 +14974,8 @@ If he was paired up with Jiang Henshui, wouldn't his identity immediately be rev
       <tuv lang="ZH-CN">
         <seg>说着钱万贯的眉头蹙了起来，沉默了很久，才苦笑说道：“大哥，这事我可以帮你，短期内我能利用家族的人帮你掩护一下，但这事瞒不了多久。除非你在学院内不冒头，一旦你成为精英学员，各家族都会调查你的资料，到时候绝对有人会查出一丝蛛丝马迹的。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T072422Z" creationid="emilywu" creationdate="20181210T072422Z">
-        <seg>Qian Wanguan frowned as he said, "Brother, I can help you with that. I can cover you using people in my family in the short-run. But this won't last long. Once you become an elite student, every family would start researching you. Someone's gonna find something."</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T073640Z" creationid="emilywu" creationdate="20181210T072422Z">
+        <seg>Qian Wanguan frowned as he said, "Brother, I can help you with that. I can cover you using people in my family in the short-run. But this won't last long. Once you become an elite student, every family would start researching on you. Someone's gonna find something."</seg>
       </tuv>
     </tu>
     <tu>
