@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5394,6 +5394,14 @@ To say nothing of being faster than Jiang Henshui, even if he were slower than J
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他的身世必须掩藏，一旦曝光或者被有心人知道，他和江云海的处境将会变得极其危险，要知道镇西王还有一个儿子叫江逆流。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T081159Z" creationid="yyc" creationdate="20181210T081159Z">
+        <seg>His </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他目光一冷，朝左边的小树林内扫去，暗道难道是江如虎等人来堵他了？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T172336Z" creationid="Joey" creationdate="20180916T172336Z">
@@ -8038,6 +8046,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="USER" creationdate="20180809T100518Z">
         <seg>He quickly cleared his thoughts. He had, after all, already injured two of his opponent's men; additionally, his opponent recognized the martial arts techniques of the Jiang Clan and had evidently become apprehensive. Why else would that housekeeper not retaliate against him, but rather call for his guards to stand down? Since the opponent temporarily did not dare to fight any longer and asked to negotiate, why not? It would probably be easier to deal with—so long as he could protect Jiang Xiaonu's life as well as that of his own, anything else would be secondary. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>很快他确定了一点，不管他父亲是不是江别离，他都不会相认，反正做孤儿这么多年，他也习惯了。其次他要想办法见江云海一面，把事情彻底弄清楚，再想办法掩藏身世。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T081149Z" creationid="yyc" creationdate="20181210T081149Z">
+        <seg>But very soon he could confirm that whether his father was Jiang Bieli, he would not accept him. He was used to being an orphan for all these years. Besides that, he needed to meet Jiang Yunhai to figure things out and then try to cover his identity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12430,8 +12446,8 @@ Without any black essence force, he had no other result beyond ending up in a co
       <tuv lang="ZH-CN">
         <seg>江逸突然指着门外对着钱万贯吼了起来，小胖子抖了抖鼻子讪讪的走出去了。江逸直接扑到在床上，痛苦的闭上眼睛，脑海内如浆糊般一团糟。他胡思乱想了一阵，很快坐了起来揉了揉脸，强迫自己冷静下来，分析情况。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T074854Z" creationid="yyc" creationdate="20181210T074854Z">
-        <seg>Jiang Yi suddenly shouted towards Qian Wanguan and pointed towards the door. </seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T080904Z" creationid="yyc" creationdate="20181210T074854Z">
+        <seg>Jiang Yi suddenly shouted towards Qian Wanguan and pointed towards the door. Fatty moved his nose and walked out embarrassedly. Jiang Yi collapsed on the bed and closed his eyes in agony. His head was in a hell of mess. He was indulged in random thoughts for a while. He then sit up quickly and rubbed his face to force himself to calm down and analyze the situation. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13092,8 +13108,8 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       <tuv lang="ZH-CN">
         <seg>江逸面色沉了下来，要想得到学院的重视，那必须成为精英学员，这样才能有机会认识那位天阶的治疗师，从而求他治疗江小奴。也只有成为精英学员才能得到驯化灵兽的秘术，而一旦成为精英学员，将会引起各大家族的注意和招揽，资料也会无可避免的被调查……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T073946Z" creationid="emilywu" creationdate="20181210T073631Z">
-        <seg>Jiang Yi looked serious. One has to become an elite student if he wants to receive attention in college. This is the only way to meet the healer in Heaven-tier and asked him to treat Jiang Xiaonu. Moreover, only elite students possess the secret skills of domesticating Spirit Beast. And once you become an elite student, you will be the center of attention, every family would want to recruit you and your background would be investigated..." </seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T075615Z" creationid="emilywu" creationdate="20181210T073631Z">
+        <seg>Jiang Yi looked serious. One had to become an elite student if he wanted to receive attention in college. This was the only way to meet the healer in Heaven-tier and asked him to treat Jiang Xiaonu. Moreover, only elite students possessed the secret skills of domesticating Spirit Beast. And once you became an elite student, you would be the center of attention, every family would want to recruit you and your background would be investigated... </seg>
       </tuv>
     </tu>
     <tu>
