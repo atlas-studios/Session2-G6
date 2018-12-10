@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12876,6 +12876,14 @@ Hesitating briefly, he asked, "Can I leave at any time I want?"</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸颔首道：“我要你不惜一切代价帮我掩藏身份，不管我是不是那个人的儿子，如果这事传到江逆流耳中，你应该知道他会千方百计干掉我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T070856Z" creationid="emilywu" creationdate="20181210T070856Z">
+        <seg>"I need you to cover my identity at all cost, whether I am that man's son or not. If Jiang Niliu hears about this, he would do anything just to kill me." said Jiang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸飞射而来，拉着江小奴的手满脸都是惭愧，随即想起什么，咧嘴一笑：“小奴，走回家，我给你看好东西，还有一件天大的好事告诉你。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T142248Z" creationid="Joey" creationdate="20180817T044252Z">
@@ -15568,6 +15576,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯拍了拍胸脯道：“你放心，我们钱家的子弟最懂的就是做生意，要做生意首先得学会看人。在我看来大哥你绝非池中物，你这人情值得我全力投资，这可是一本万利的事情。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T070536Z" creationid="emilywu" creationdate="20181210T070536Z">
+        <seg>"Don't worry. We are from the Qian family, business is what we do best. One needs to be good at reading people before he starts to do business. I think you are a man of high aspirations. Your favor is a worthwhile investment." said Qian Wanguan confidently.</seg>
       </tuv>
     </tu>
     <tu>
