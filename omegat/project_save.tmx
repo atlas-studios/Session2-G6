@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -952,6 +952,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T201742Z" creationid="Joey" creationdate="20180918T201742Z">
         <seg>"Oh no!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哎哟……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T052927Z" creationid="yyc" creationdate="20181210T052927Z">
+        <seg>"Ouch!"</seg>
       </tuv>
     </tu>
     <tu>
