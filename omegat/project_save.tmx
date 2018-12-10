@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7366,6 +7366,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子不留痕迹的收起手中的书册，苦笑的说道：“大哥，你能不能温柔点啊？这门坏了，我以后怎么睡啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T055629Z" creationid="emilywu" creationdate="20181210T054957Z">
+        <seg>Fatty closed the book quietly, "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女目光在江逸等人身上扫过，有些不满的说道：“杨管事，怎么没有银牌陪练？全都是铜牌的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152717Z" creationid="Joey" creationdate="20180911T211203Z">
@@ -10779,8 +10787,8 @@ It looks like this fight will only worsen them…</seg>
       <tuv lang="ZH-CN">
         <seg>江逸想清楚了事情，走出房间一脚把小胖子的房门踹开了，把正在看一份资料的小胖子吓了一跳。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T054909Z" creationid="emilywu" creationdate="20181210T053209Z">
-        <seg>Jiang Yi figured it out. Fatty was reading when Jiang Yi kicked his door open, that loud sound startled him.</seg>
+      <tuv lang="EN-US" changeid="emilywu" changedate="20181210T055004Z" creationid="emilywu" creationdate="20181210T053209Z">
+        <seg>Jiang Yi figured it out. Fatty was reading when Jiang Yi kicked his door open, the loud sound startled him.</seg>
       </tuv>
     </tu>
     <tu>
