@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15371,10 +15371,18 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>钱万贯爬了起来，揉了揉胸口依旧没有生气，反而疑惑的望着江逸，看他不似作伪，这才问道：“江逸，江云海没有告诉你的身世？按我们钱家的情报推算，你绝对是镇西王的儿子，江逆流同父异母的弟弟！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T055610Z" creationid="yyc" creationdate="20181210T055610Z">
+        <seg>Qian Wanguan stood up and rubbed his chest area. He was not angry but instead, stared at Jiang Yi with confusion. Jiang Yi did not seem like to be lying, Qian Wanguan then asked," Jiang Yi, did Jiang Yunhai not tell you about your background? Based on our Qian's deduction, you are definitely the son of the Western Garrison Liege Lord - half-blooded brother of Jiang Ni!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>钱万贯的话刚刚说完，江逸就一脚猛然踹在他身上，将他身子踹出去足足一丈之远，他满脸都是怒容，冷喝道：“钱万贯，耍我很好玩？世子这词能乱叫？你是想让我被满门抄斩吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yyc" changedate="20181210T054507Z" creationid="yyc" creationdate="20181210T054507Z">
-        <seg>When Qian Wanguan just finished his sentence, Jiang Yi kicked his body furiously that he flew ten feet far. Jiang Yi's face was ablaze with anger. He shouted," Qian Wanguan! Is it fun to make fun of me?  </seg>
+      <tuv lang="EN-US" changeid="yyc" changedate="20181210T054923Z" creationid="yyc" creationdate="20181210T054507Z">
+        <seg>When Qian Wanguan just finished his sentence, Jiang Yi kicked his body furiously that he flew ten feet far. Jiang Yi's face was ablaze with anger. He shouted," Qian Wanguan! Is it fun to make fun of me?  How can you address people as the heir? Do you want my entire family to be executed?" </seg>
       </tuv>
     </tu>
     <tu>
