@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3124,6 +3124,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“管他呢，兵来将挡水来土掩，反正学院内不能斗殴，江麒麟还能用眼神和口水杀死我？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T063916Z" creationid="teotianci" creationdate="20181210T063916Z">
+        <seg>" Who cares about him? As the chinese saying goes "different situations call for different action", we can't fight within the school compound so it is unlikely that Jiang Qilin can use his eyes and saliva to kill me!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“管他的呢，修炼速度那么慢，就算是颜色是九彩的也没用啊！再厉害的元力心法，练不到一定境界，那也是没有任何意义的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011741Z" creationid="Joey" creationdate="20180807T152421Z">
@@ -5738,8 +5746,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>其余人江逸不管，这江麒麟可是认出了他。以江麒麟的本事，他进了学院很快就会找来吧？那可是神武国第二世家的公子啊！姬听雨让他低调些，没想到还没进学院就已经得罪了一个大人物。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T062521Z" creationid="teotianci" creationdate="20181210T062521Z">
-        <seg>While the rest including Jiang Yi did not recognise this, however Jiang Qilin did. With Jiang </seg>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T063542Z" creationid="teotianci" creationdate="20181210T062521Z">
+        <seg>While the rest including Jiang Yi did not recognise this, however Jiang Qilin did. With Jiang Qilin's ability, he would soon find it upon entering the college right? That is the young master of the Second Divine Martial Kingdom! Despite that Jing Tingyu made him lowkey, he had offended an authoritative figure even before entering the college.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7464,8 +7472,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>就在这时，山顶的另外一边数人飙射而上，吸引了众人的注意。江逸连忙快速走进人群中，这才顺着众人目光看去，这一看之下他脸色立即沉了下来，来的是长孙家那位少爷，还有江麒麟小胖子钱万贯等人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T061922Z" creationid="teotianci" creationdate="20181210T060752Z">
-        <seg>At this moment, something caught the attention of everyone — people were being shot at the other side of the mountain peak! Jiang Yi instantaneously barged into the crowd and looked at the direction where everyone was faced towards. At a glance, his heart sank. It was the young master from the eldest son family and Jiang Kirin's Fatty,Qian Wanguan.  </seg>
+      <tuv lang="EN-US" changeid="teotianci" changedate="20181210T062538Z" creationid="teotianci" creationdate="20181210T060752Z">
+        <seg>At this moment, something caught the attention of everyone — people were being shot at the other side of the mountain peak! Jiang Yi instantaneously barged into the crowd and looked at the direction where everyone was faced towards. At a glance, his heart sank. It was the young master from the eldest son family and Jiang Qilin's Fatty,Qian Wanguan.   </seg>
       </tuv>
     </tu>
     <tu>
