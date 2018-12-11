@@ -252,7 +252,7 @@
 一是一，二十二	to call a spade a spade
 多个朋友多条路	the more friends you have the more options you have in life
 下台阶	to give someone an out
-打小算盘	to act in one's own self-interest
+打小算盘	to at in one's own self-interest
 坐山观虎	sit this one out and reap the spoils later
 斗羊毛出在羊身上	there's no such thing as a free lunch
 一口吃成个胖子	to wave a magic wand and get what one wants
@@ -510,7 +510,7 @@
 空间戒指	interspatial ring
 法则	laws, nomological
 法则领悟	nomological insight
-法器	Dharma artifact, enchanted armament
+法器	Dharma artifact
 法宝	Dharma treasure
 法术	Dharma spells
 法力	Dharmic powers
@@ -546,14 +546,14 @@
 峰	peak
 师公	Grandmaster, Martial Grandfather
 师爷	Grandmaster, Martial Grandfather
-师侄	Martial Nephew, Martial Niece, Apprentice-Nephew, Apprentice-Niece
-师弟	Junior Brother, Junior Martial Brother, Junior Apprentice-Brother
-师兄	Senior Brother, Senior Martial Brother, Senior Apprentice-Brother
-师姐	Senior Sister, Senior Martial Sister, Senior Apprentice-Sister
-师妹	Junior Sister, Junior Martial Sister, Junior Apprentice-Sister
-师姑	Aunt-Master, Martial Aunt
-师叔	Uncle-Master, Martial Uncle, Aunt-Master, Martial Aunt
-师博	Uncle-Master, Martial Uncle
+师侄	Apprentice-Nephew, Apprentice-Niece
+师弟	Junior Brother
+师兄	Senior Brother
+师姐	Senior Sister
+师妹	Junior Sister
+师姑	Aunt-Master
+师叔	Uncle-Master, Aunt-Master
+师博	Uncle-Master
 师父	Master
 前辈	Senior
 晚辈	Junior
@@ -566,7 +566,6 @@
 外门弟子	outer sect disciples
 内门弟子	inner sect
 长老	Elder
-太上长老	Grand Elder
 门主	sect master
 教主	sect master
 弟子	disciple
@@ -787,7 +786,6 @@
 抱拳	cupped fists
 阁	pavilion
 塔	pagoda
-洞府	Cave Abode
 仙子	Fairy
 莲花	lotus flower
 掐诀	hand seals
@@ -796,6 +794,7 @@
 兩	tael
 文	thousandth of a tael (use it judiciously)
 里	500 meters
+斤	500 grams
 寸	inch
 三界	Three Realms
 六道轮回	Six Paths of Reincarnation
@@ -811,7 +810,7 @@
 点脉	striking the acupuncture points
 经	sutra
 吐纳	expiration
-走火入魔	Qi deviation
+走火入魔	Qi Deviation
 心魔	mental demons
 初期	early-stage
 中期	mid-stage
@@ -847,7 +846,7 @@
 下品	inferior-grade
 中品	medial-grade
 大能	mighty figure
-天庭	Heavenly Court
+天庭	Heavenly Courts
 洞天	Grotto-heaven
 老太君	matriarch
 天榜	Heaven roll
@@ -873,153 +872,200 @@
 仙府	immortal abode
 百花	Centaurea
 药师	Apothecary
-江逸	Jiang Yi
-西山	Western Hills
-江如虎	Jiang Ruhu
-天羽城	Skyplume City
-旁系	collateral
+灵元纪	Spirit Inception Era
+联邦	Federation
+灵气	Spirit Qi
+王宝乐	Wang Baole
+总统	President
+道院	Dao College
+缥缈道院	Ethereal Dao College
+凤凰城	Phoenix City
+高官自传	high official autobiographies
+修灵室	Spirit Cultivation Chamber
+磁灵	Magnetic Spirit
+杜敏	Du Min
+雷磁区	electromagnetic domain
+同学	schoolmates
+柳道斌	Liu Daobin
+周小雅	Zhou Xiaoya
+陈子恒	Chen Ziheng
+古武境	Ancient Martial realm
+封身	Physical Seal
+补脉	Pulse Enrichment
+掌院	Chancellor
+梦境迷阵	Hallucination Nexus
+下院岛	Lower Academy Island
+下院	Lower Academy
+上院	Upper Academy
+法兵	Dharmic Armament
+回纹	Inscriptions
+灵坯	Spirit Kernel
+学首	Head Prefect
+林天浩	Lin Tianhao
+空港	aerial port
+系	faculty
+气血	Blood Qi
+古武	Ancient Martial Arts
+灵网	Spirit Intranet
+白鹿道院	White Deer Dao College
+卓一凡	Zhuo Yifan
+怕个鸟	what's there to be afraid of?
+剑阳	Sword Sun
+空白石	Empty Stone
+七彩灵石	Rainbow Spirit Stone
+邹云海	Zou Yunhai
+院纪部	College Discipline Department
+老医师	old physician
+藏宝阁	Treasure Repository
+黑色面具	black mask
+特招	specially-recruited
+姜林	Jiang Lin
+太虚噬气诀	Great Void Qi Devouring Art
+养气诀	Qi Fostering Art
+中年男子	middle-aged man
+胖爷爷	Fatso Forefathers
+道袍	Daoist robe
+战武系	Combat faculty
+空白灵石	Empty Stones
+噬气诀	Qi Devouring Art
+副掌院	Vice-Chancellor
+议员	senator
+高全	Gao Quan
+噬种	devouring seed
+灵脂	spirit fat
+学子	students
+成功	succeed
+下意识	subconsciously
+化清丹	Cleansing Pill
+零食	snacks
+梦枕	Hallucination Pillow
+梦境	Hallucination realm
+缥缈城	Ethereal City
+小雅	Xiaoya
+青木湖	Green Forest Lake
+小白兔	Bunny
+青铜古剑	ancient greenish-bronze sword
+传音戒	voice transmission ring
+云鹰会所	Cloud Hawk Auction House
+冰灵水	Ice Spirit Water
+板儿	Washboard
+直播	live stream
+驭兽	Beast Taming
+岩浆室	Lava Chamber
+悟道系	Dao Enlightenment faculty
+我在悟道	I am enlightening myself on the Dao
+修炼室	cultivation chamber
+太虚擒拿术	Great Void Twisting Technique
+搏击俱乐部	fight club
+胖兔子	Fat Rabbit
+大陪练	senior sparring partner
+胖兔	Fat Rabbit
+陆子浩	Lu Zihao
+周璐	Zhou Lu
+谢海洋	Xie Haiyang
+督查	inspector
+黑衣督查	black-robed inspectors
+学首令	Head Prefect Token
+兵纹	Armament Marks
+修士	cultivator
+副城主	Deputy City Lord
+储物手镯	storage bracelet
+池云雨林	Pond Cloud Rainforest
+真息境	True Breath Realm
+傀儡	puppet
+太上长老	Grand Supreme Elder
 大长老	Grand Elder
-元力	essence force
-江水决	Jiang Water Art
-水系	water-elemental
-天星	Stellarsky
-大陆	continent
-五大家族	five great family clans
-天界	Heavenly Realm
-天帝	Celestial Thearch
-九阳	Nine Yang
-诡异	strange
-老者	Elder
-涟漪	ripple
-咻咻	swish swish
-九天	Nine Heavens
-钧	18 kg
-口诀	formulation
-无名	nameless
-少阴心经	Shaoyin meridian
-攒竹穴	Zhanzhu acupunture point
-唔	Huh
-粗布	rough sackcloth
-大院	courtyard
-铸鼎境一重	first stage of the Cast Tripod Realm
-铸鼎境二重	second stage of the Cast Tripod Realm
-铸鼎境三重	third stage of the Cast Tripod Realm
-江豹	Jiang Bao
-铸鼎境	Cast Tripod Realm
-管事	housekeeper
-流星拳	Shooting Star Punch
-缠丝手	silk hand
-草参	grass ginseng
-白芷	dahurian angelica
-姜黄	curcuma longa
-二十钱	20'qian'/mace
-息时间	two or three seconds/in the time it took a breath
-消耗	consume/use up
-时辰	two hours
-盘坐	sit cross-legged
-清点	take stock
-药力	medical efficacy
-柳长老	Elder Liu
-侍女	maidservant
-聚珍阁	Pearl Gathering Pavilion
-姬听雨	Ji Tingyu
-蛇鞭腿	Snake Whip Leg
-符文	runic patterns
-单膝	genuflect
-冥皇	Netherworld King
-冥帝	Netherworld Emperor
-骸骨巨人、尸人、尸兽和阴兵	skeleton giants, zombies, zombie beasts and yin soldiers
-九天锁星阵	Empyreal Star Lock Array
-强烈震撼	astounded
-不死冥皇	Undying Netherworld King
-老不死	Undying Old Fart
-火龙剑	Fire Dragon Sword
-冥界	Netherworld Realm
-大道	Great Dao
-天星大陆	Stellarsky Continent
-融合	fuse
-一丝	a sliver
-紫府境	Purple Mansion Realm
-神游境	Soul Travel Realm
-元力丹	essence force elixir
-江恨水	Jiang Henshui
-药草简录	Record on Medicinal Herbs
-摔碑手	Wrestling Hand
-四号田	Plantation Four
-修炼	cultivate
-一缕	a wisp
-运转	circulate
-铁头功	Iron Head Technique
-柱香	five minutes
-大少爷	Great Young Master
-春芽	Chunya
-黑色元力	black essence forces
-小奴	Xiaonu
-老妈子	old chambermaid
-风月楼	Fengyue Brothel
-势力	faction
-幻影拳	Phantom Punch
-人阶	Man-tier
-地阶	Earth-tier
-天阶	Heaven-tier
-心神一动	With that thought,
-斤	600 grams
-人品	Man-tier
-十钱	one liang/50 grams
-一钱	five grams
-陪练	sparring partner
-练功房	Technique Practising Room
-入门	Entry Stage
-精通	Profiecient Stage
-大成	Phenomenal Stage
-暴雨拳	Thunderstorm Fist
-翊小姐	Young Mistress Yi
-蓝色元力	blue essence force
-江松	Jiang Song
-尺	one-third of a metre
-迷幻步	Psychedelic Step
-翊凌雪	Yi Lingxue
-神武国	Divine Martial Kingdom
-江如龙	Jiang Rulong
-幻灵手	Fantasy Spirit Hands
-宝器	Treasured Artifact
-利器	Keen Artifact
-灵器	Numinous Artifact
-圣器	Sacred Artifact
-费老	Elder Fei
-杨管事	Manager Yang
-翊飞儿	Yi Feier
-聚灵阵	spirit concentration spell
-总管	Chief Supervisor
-一品	first-rate
-元魂丹	Essence Soul Pills
-灵神丹	Spirit Pills
-黑参丹	Black Ginseng Elixirs
-元力丹	Essence Force Pills
-黄参丹	Yellow Ginseng Elixirs
-丹房	Elixir Room
-炼丹房	alchemy lab
-镇西王	Western Garrison Liege Lord
-演武殿	Martial Arts Demonstration Hall
-灵兽山	Mt. Spirit Beast College
-镇西军	West Garrison Army
-江云山	Jiang Yunshan
-刑堂	Disciplinary Court
-副长老	Deputy Elder
-南院	Southern Court
-圣品	saint-grade
-西院	Western Court
-江家大院	Jiang Residence
-武殿	Martial Arts Hall
-江家	Jiang Clan
-江顾水	Jiang Gushui
-江如狼	Jiang Rulang
-摔碑手	Wrestling Hand
-铸鼎境五重	fifth stage of the Cast Tripod Realm
-极神步	Extreme Divine Steps
-铸鼎境七重	seventh stage of Cast Tripod Realm
-武堂长老	Martial Court Elder
-老不死	Old Fart Undying	old fart undying
-传奇历史	invincible Nine-Yang Celestial Thearch
-钱万贯	Qian Wanguan
-江逆流	Jiang Niliu
+经验	experience
+宗主	Sect Lord
+副宗	Deputy Sect Lord
+一层	first level
+二层	second level
+三层	third level
+术法	spells
+闪弧	Flash
+雷磁	Electromagnetism
+瞬剑	Instant Sword
+爆龙	Explosive Dragon
+狱海	Hell Sea
+阵纹	Array Runes
+阵纹阁	Array Runes Pavilion
+雷域	Lightning Domain
+苍穹	firmament
+周将军	General Zhou
+黄贵	Huang Gui
+黑衣人	men in black
+周鑫	Zhou Xin
+圣川道院	Sheng Chuan Dao College
+印	seal
+陈兵	Chen Bing
+三榜	Three Rolls
+东临航空	Dong Lin Airlines
+玉简	jade scroll
+老者	elder
+搜寻法器	searching Dharma artifact
+红骨白婴蛇	red-boned white infant snakes
+云鹰拍卖场	Cloud Hawk Auction House
+缥缈拍卖场	Ethereal Auction House
+尤其是	That was especially so
+雷鸟	Lightning Bird
+小道	Little Daoist
+狰狞巨蚊	savage giant mosquitoes
+五指山	Five Peaks
+防护罩	protective shield
+防护光幕	protective screen
+灵炉洞	Spirit Cauldron Cave
+机关系	Traps faculty
+联邦总统爸爸	Federation President Daddy
+曹坤	Cao Kun
+老生	senior student
+星空古剑	cosmic ancient sword
+三月集团	Trilunaris Corporation
+星河落日宗	Galactic Dusk Sect
+羽化先天宗	Plume Manifestation Connate Sect
+五世天族	Five Generation Sky Clan
+白鹿分院	White Deer Branch College
+山羊胡	Goatee
+三品灵宝	Three Quality numinous treature
+金钟罩	Golden Clock Shield
+真息	True Breath
+灵根	Spirit Root
+赵雅梦	Zhao Yameng
+威压	suppressive force
+李楠	Li Nan
+宋品隆	Song Pinlong
+吴海森	Wu Haisen
+风刃	wind blade
+金身	Golden Body
+令牌	identity token
+神秘面具	mysterious mask
+灵息乡	Spirit Breath Village
+象牙殿堂	Husk Hall
+七寸	seven-inch-long
+李怡	Li Yi
+石壳	stone shell
+吴焚	Wu Fan
+九寸	nine-inch-long
+飞艇	cruiser
+灵脉	Spirit circuitry
+势力范围	protectorate
+灵力	spirit energy
+卓一仙	Zhuo Yixian
+黑色神秘物质	mysterious black substance
+灵丝	Spirit thread
+神兵	Divine Soldier
+小姐姐	Little Missy
+孙云	Sun Yun
+洞府	cave abode
+陈明宇	Chen Mingyu
+未央族	Wei Ying Tribe
+未央族	Wei Yang Tribe
+林佑	Lin You
+蓝衫修士	blue-shirted cultivator
+浩儿	Hao-er
+朱刚强	Zhu Gangqiang
+上院岛	Upper Academy Island
+阁主	Pavilion Head
+熔炉	refinement pot
+云雾缥缈	Cloud Etheral
+万物化兵诀	Technique of Miraculous Transformation
+兵徒	Dharma disciple
